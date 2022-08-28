@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using HospitalEnCasa.App.Dominio;
+//using System.Data.Entity.SqlServer;
 
 namespace HospitalEnCasa.App.Persistencia
 {
@@ -17,8 +18,13 @@ namespace HospitalEnCasa.App.Persistencia
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder
-               .UseSqlServer("Server=tcp:misiontic2022.database.windows.net,1433;Initial Catalog=HospiEncasatData;Persist Security Info=False;User ID=admin_01;Password=09122006_Hf;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
+                optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=HospitalEnCasaData; Persist Security Info=False;MultipleActiveResultSets=False;TrustServerCertificate=False;Connection Timeout=30;");
+                // optionsBuilder.UseSqlServer("Data Source=(localdb)\\MSSQLLocalDB; Initial Catalog=HospitalEnCasaData; Persist Security Info=False;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;", builder =>
+                // {
+                //     builder.EnableRetryOnFailure(5, TimeSpan.FromSeconds(10), null);
+                // });
+                // base.OnConfiguring(optionsBuilder);
+               //.UseSqlServer("Server=tcp:misiontic2022.database.windows.net,1433;Initial Catalog=HospiEncasatData;Persist Security Info=False;User ID=admin_01;Password=09122006_Hf;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;");
             
             }
         }

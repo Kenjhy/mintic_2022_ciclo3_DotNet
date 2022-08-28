@@ -8,7 +8,8 @@ namespace HospitalEnCasa.App.Dominio
     public class SignoVital 
     {
         // Identificador único de cada signo vital
-        public int Id { get; set; }
+        [Key]
+        public int? Id { get; set; }
         /// Fecha y hora en que se realizó la toma del signo vital 
         public DateTime FechaHora  { get; set; }
          /// Valor numérico del sifno vital  

@@ -1,4 +1,6 @@
 using System;
+using System.Data.Entity.Core;
+using System.ComponentModel.DataAnnotations;
 
 namespace HospitalEnCasa.App.Dominio
 {
@@ -8,7 +10,8 @@ namespace HospitalEnCasa.App.Dominio
     public class SugerenciaCuidado 
     {
         // Identificador único de cada SugerenciaCuidado
-        public int Id { get; set; }
+        [Key]
+        public int? Id { get; set; }
         /// Fecha y hora en que se escribe la sugerencia
         public DateTime FechaHora  { get; set; }
          /// Texto con la sugerencia

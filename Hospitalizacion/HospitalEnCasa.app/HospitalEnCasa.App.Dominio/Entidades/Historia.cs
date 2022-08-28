@@ -9,7 +9,8 @@ namespace HospitalEnCasa.App.Dominio
     public class Historia 
     {
         // Identificador único de la Historia
-        public int Id { get; set; }
+        [Key]
+        public int? Id { get; set; }
         /// Descripcion detallada del diagnostico del Paciente 
         public string Diagnostico  { get; set; }
          /// Descripción de la casa y habitación del Paciente  
