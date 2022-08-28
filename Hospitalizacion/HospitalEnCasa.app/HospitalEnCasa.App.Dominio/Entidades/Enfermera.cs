@@ -1,4 +1,4 @@
-namespace HospiEnCasa.App.Dominio
+namespace HospitalEnCasa.App.Dominio
 {
     /// <summary>Class <c>Enfermera</c>
     /// Modela una Persona del personal de enfermería del equipo medico de apoyo 

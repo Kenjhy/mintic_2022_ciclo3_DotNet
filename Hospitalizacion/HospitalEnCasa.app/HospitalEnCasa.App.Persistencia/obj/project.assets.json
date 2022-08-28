@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {
+          "lib/netstandard2.0/_._": {
             "related": ".xml"
           }
         },
@@ -134,7 +134,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "6.0.8"
         },
         "compile": {
-          "lib/net6.0/Microsoft.EntityFrameworkCore.Design.dll": {
+          "lib/net6.0/_._": {
             "related": ".xml"
           }
         },
@@ -781,6 +781,16 @@
             "assetType": "runtime",
             "rid": "win"
           }
+        }
+      },
+      "HospitalEnCasa.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HospitalEnCasa.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HospitalEnCasa.App.Dominio.dll": {}
         }
       }
     }
@@ -2003,10 +2013,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "HospitalEnCasa.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../HospitalEnCasa.App.Dominio/HospitalEnCasa.App.Dominio.csproj",
+      "msbuildProject": "../HospitalEnCasa.App.Dominio/HospitalEnCasa.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HospitalEnCasa.App.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
@@ -2019,11 +2035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\HospitalEnCasa.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\HospitalEnCasa.App.Persistencia.csproj",
       "projectName": "HospitalEnCasa.App.Persistencia",
-      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\HospitalEnCasa.App.Persistencia.csproj",
+      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\HospitalEnCasa.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\obj\\",
+      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2037,7 +2053,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\HospitalEnCasa.App.Dominio.csproj": {
+              "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\HospitalEnCasa.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

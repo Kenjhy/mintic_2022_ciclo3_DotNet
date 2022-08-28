@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvLxquYRSkZCO4je62jjuQHBVQhbZn3bKuO7n8qfmlKe2wsGOy0kcwWaFQaXJnXWtjB3AJBbHhpR5BvdNVMNvg==",
+  "dgSpecHash": "Po+oqSh1pO9ylt5V59vitT998HXNfk8ZrzH40Ec5Q8V5NjGrxr4CcP0DOmTtz/yLRoVkyIMdtMLqlerld2vB0w==",
   "success": true,
-  "projectFilePath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\HospitalEnCasa.App.Persistencia.csproj",
+  "projectFilePath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Persistencia\\HospitalEnCasa.App.Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\daniel.vargas\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\daniel.vargas\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1,0 +1,12 @@
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\bin\Debug\net6.0\HospitalEnCasa.App.Dominio.deps.json
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\bin\Debug\net6.0\HospitalEnCasa.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\bin\Debug\net6.0\HospitalEnCasa.App.Dominio.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.csproj.AssemblyReference.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.AssemblyInfoInputs.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.AssemblyInfo.cs
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.csproj.CoreCompileInputs.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\refint\HospitalEnCasa.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\HospitalEnCasa.App.Dominio.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Dominio\obj\Debug\net6.0\ref\HospitalEnCasa.App.Dominio.dll

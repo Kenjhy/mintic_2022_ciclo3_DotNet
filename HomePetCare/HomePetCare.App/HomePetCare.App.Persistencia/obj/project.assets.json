@@ -782,6 +782,16 @@
             "rid": "win"
           }
         }
+      },
+      "HomePetCare.App.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/HomePetCare.App.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HomePetCare.App.Dominio.dll": {}
+        }
       }
     }
   },
@@ -2003,10 +2013,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "HomePetCare.App.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../HomePetCare.App.Dominio/HomePetCare.App.Dominio.csproj",
+      "msbuildProject": "../HomePetCare.App.Dominio/HomePetCare.App.Dominio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "HomePetCare.App.Dominio >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.8",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.8",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.8",
@@ -2019,11 +2035,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
+      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
       "projectName": "HomePetCare.App.Persistencia",
-      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
+      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\HomePetCare.App.Persistencia.csproj",
       "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\obj\\",
+      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2037,7 +2053,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj": {
+              "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\HomePetCare\\HomePetCare.App\\HomePetCare.App.Dominio\\HomePetCare.App.Dominio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

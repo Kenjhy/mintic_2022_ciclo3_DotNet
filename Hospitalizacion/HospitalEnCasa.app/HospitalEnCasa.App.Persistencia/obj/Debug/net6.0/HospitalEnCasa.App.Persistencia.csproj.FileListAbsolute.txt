@@ -1,0 +1,17 @@
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.csproj.AssemblyReference.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.AssemblyInfoInputs.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.AssemblyInfo.cs
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.csproj.CoreCompileInputs.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\bin\Debug\net6.0\HospitalEnCasa.App.Persistencia.deps.json
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\bin\Debug\net6.0\HospitalEnCasa.App.Persistencia.runtimeconfig.json
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\bin\Debug\net6.0\HospitalEnCasa.App.Persistencia.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\bin\Debug\net6.0\HospitalEnCasa.App.Persistencia.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\bin\Debug\net6.0\HospitalEnCasa.App.Dominio.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\bin\Debug\net6.0\HospitalEnCasa.App.Dominio.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.csproj.CopyComplete
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\refint\HospitalEnCasa.App.Persistencia.dll
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.pdb
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\HospitalEnCasa.App.Persistencia.genruntimeconfig.cache
+C:\ProyectsSoftware\FreeLancer\Net\Mis_Repos\mintic_2022_ciclo3_DotNet\Hospitalizacion\HospitalEnCasa.app\HospitalEnCasa.App.Persistencia\obj\Debug\net6.0\ref\HospitalEnCasa.App.Persistencia.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\HospitalEnCasa.App.Dominio.csproj",
+      "projectUniqueName": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\HospitalEnCasa.App.Dominio.csproj",
       "projectName": "HospitalEnCasa.App.Dominio",
-      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\HospitalEnCasa.App.Dominio.csproj",
+      "projectPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\HospitalEnCasa.App.Dominio.csproj",
       "packagesPath": "C:\\Users\\daniel.vargas\\.nuget\\packages\\",
-      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\obj\\",
+      "outputPath": "C:\\ProyectsSoftware\\FreeLancer\\Net\\Mis_Repos\\mintic_2022_ciclo3_DotNet\\Hospitalizacion\\HospitalEnCasa.app\\HospitalEnCasa.App.Dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daniel.vargas\\AppData\\Roaming\\NuGet\\NuGet.Config"
